@@ -1,6 +1,6 @@
-#AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step
+# AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step
 
-(YouTube Tutorial)[https://www.youtube.com/watch?v=7m_q1ldzw0U&list=WL&index=43&t=161s]
+[YouTube Tutorial Link](https://www.youtube.com/watch?v=7m_q1ldzw0U&list=WL&index=43&t=161s)
 
 
 ## Goals:
